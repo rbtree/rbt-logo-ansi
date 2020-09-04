@@ -1,0 +1,11 @@
+[package]
+name = "rbt-logo-ansi"
+version = "0.1.0"
+authors = ["Srđan Marković <srdjan.markovic@rbt.rs>"]
+description = "Red Black Tree Logo in colored ANSI"
+homepage = "https://rbt.rs"
+repository = "https://github.com/msrdjan/rbt-logo-ansi"
+keywords = ["cli", "rbt"]
+categories = ["command-line-utilities"]
+
+[dependencies]
